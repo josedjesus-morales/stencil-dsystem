@@ -28,6 +28,7 @@ Para instalar este componente, sigue estos pasos:
 El componente admite las siguientes propiedades:
 
 - `color`: Cambia el color del botón (opcional).
+- `outline`: Cambia el color del borde del botón (opcional).
 - `texto`: Define el texto del botón (opcional).
 
 ## Ejemplo de uso
